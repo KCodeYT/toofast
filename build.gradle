@@ -52,3 +52,5 @@ publishing {
     repositories {
     }
 }
+
+apply from: 'curseforge.gradle'
