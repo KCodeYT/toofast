@@ -1,8 +1,7 @@
 package noobanidus.mods.toofast;
 
-import net.minecraftforge.fml.common.Mod;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+
+import net.neoforged.fml.common.Mod;
 
 @Mod("toofast")
 public class TooFast {
