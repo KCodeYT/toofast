@@ -1,10 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.zestyblaze.toofast.mixin",
+  "package": "noobanidus.mods.toofast.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "ServerPlayNetPlayMixin"
+    "MixinServerNetPlayHandler"
   ],
   "injectors": {
     "defaultRequire": 1

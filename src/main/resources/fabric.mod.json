@@ -5,7 +5,6 @@
   "name": "TooFast",
   "description": "Disables 'moved too quickly' for recent versions of Minecraft.",
   "authors": [
-    "ZestyBlaze",
     "noobanidus"
   ],
   "contact": {
@@ -22,7 +21,7 @@
   "depends": {
     "fabricloader": ">=0.15.11",
     "fabric": "*",
-    "minecraft": "1.21.x",
+    "minecraft": "1.21.4",
     "java": ">=21"
   }
 }
