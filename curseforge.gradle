@@ -114,7 +114,7 @@ curseforge {
                     }
                 }
             } else {
-                mainArtifact(jar) {
+                mainArtifact(remapJar) {
 
                     if (project.hasProperty('curse_requirements') || project.hasProperty('curse_optionals')) {
 
